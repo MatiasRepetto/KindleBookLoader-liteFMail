@@ -1,0 +1,17 @@
+C:\Users\dd\Desktop\kindlesharerUltimate\bin\Debug\net6.0-windows\kindlesharerUltimate.exe
+C:\Users\dd\Desktop\kindlesharerUltimate\bin\Debug\net6.0-windows\kindlesharerUltimate.deps.json
+C:\Users\dd\Desktop\kindlesharerUltimate\bin\Debug\net6.0-windows\kindlesharerUltimate.runtimeconfig.json
+C:\Users\dd\Desktop\kindlesharerUltimate\bin\Debug\net6.0-windows\kindlesharerUltimate.dll
+C:\Users\dd\Desktop\kindlesharerUltimate\bin\Debug\net6.0-windows\kindlesharerUltimate.pdb
+C:\Users\dd\Desktop\kindlesharerUltimate\obj\Debug\net6.0-windows\kindlesharerUltimate.csproj.AssemblyReference.cache
+C:\Users\dd\Desktop\kindlesharerUltimate\obj\Debug\net6.0-windows\kindlesharerUltimate.Form1.resources
+C:\Users\dd\Desktop\kindlesharerUltimate\obj\Debug\net6.0-windows\kindlesharerUltimate.csproj.GenerateResource.cache
+C:\Users\dd\Desktop\kindlesharerUltimate\obj\Debug\net6.0-windows\kindlesharerUltimate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dd\Desktop\kindlesharerUltimate\obj\Debug\net6.0-windows\kindlesharerUltimate.AssemblyInfoInputs.cache
+C:\Users\dd\Desktop\kindlesharerUltimate\obj\Debug\net6.0-windows\kindlesharerUltimate.AssemblyInfo.cs
+C:\Users\dd\Desktop\kindlesharerUltimate\obj\Debug\net6.0-windows\kindlesharerUltimate.csproj.CoreCompileInputs.cache
+C:\Users\dd\Desktop\kindlesharerUltimate\obj\Debug\net6.0-windows\kindlesharerUltimate.dll
+C:\Users\dd\Desktop\kindlesharerUltimate\obj\Debug\net6.0-windows\refint\kindlesharerUltimate.dll
+C:\Users\dd\Desktop\kindlesharerUltimate\obj\Debug\net6.0-windows\kindlesharerUltimate.pdb
+C:\Users\dd\Desktop\kindlesharerUltimate\obj\Debug\net6.0-windows\kindlesharerUltimate.genruntimeconfig.cache
+C:\Users\dd\Desktop\kindlesharerUltimate\obj\Debug\net6.0-windows\ref\kindlesharerUltimate.dll
